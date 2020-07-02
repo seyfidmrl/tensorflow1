@@ -1,0 +1,11 @@
+item {
+  id: 1
+  name: 'insan'
+  display_name: 'Wearing a Mask'
+}
+
+item {
+  id: 2
+  name: 'canta'
+  display_name: 'NOT Wearing a Mask'
+}
